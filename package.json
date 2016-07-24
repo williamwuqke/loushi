@@ -1,0 +1,22 @@
+{
+  "name": "loushi",
+  "version": "1.0.0",
+  "description": "loushi admin sys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamwuqke/loushi.git"
+  },
+  "keywords": [
+    "loushi"
+  ],
+  "author": "wuqke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamwuqke/loushi/issues"
+  },
+  "homepage": "https://github.com/williamwuqke/loushi#readme"
+}
